@@ -1,0 +1,32 @@
+[33m77a2605[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/main
+[33m77a2605[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{1}: rebase (pick): add project description
+[33m1cbe814[m HEAD@{2}: rebase (pick): add author
+[33meb8ef18[m HEAD@{3}: rebase (pick): add cars toString and print
+[33mc1673a6[m HEAD@{4}: rebase (pick): add list on main and add cars on for loop
+[33m5a3c1c0[m HEAD@{5}: rebase (pick): add getters and setters to car class
+[33mea00e9e[m HEAD@{6}: rebase (pick): add car class
+[33mad81834[m HEAD@{7}: rebase (pick): delete description of project on readme
+[33mc650fe1[m HEAD@{8}: rebase (pick): add for loop
+[33m0040fbc[m HEAD@{9}: rebase (reword): add README.md for project description
+[33m97aeb99[m HEAD@{10}: rebase: fast-forward
+[33mc23fb33[m HEAD@{11}: rebase (start): checkout c23fb33
+[33m9789d08[m HEAD@{12}: rebase (abort): returning to refs/heads/main
+[33m97aeb99[m HEAD@{13}: rebase: fast-forward
+[33mc23fb33[m HEAD@{14}: rebase (start): checkout c23fb33
+[33m9789d08[m HEAD@{15}: rebase (abort): returning to refs/heads/main
+[33mc23fb33[m HEAD@{16}: rebase (start): checkout c23fb33
+[33m9789d08[m HEAD@{17}: rebase (finish): returning to refs/heads/main
+[33m9789d08[m HEAD@{18}: rebase (pick): add project description
+[33m45f749f[m HEAD@{19}: rebase (pick): add author
+[33m7394c6a[m HEAD@{20}: rebase (pick): add cars toString and print
+[33me304e3b[m HEAD@{21}: rebase (pick): add list on main and add cars on for loop
+[33m2879582[m HEAD@{22}: rebase (squash): add getters and setters to car class
+[33m1d742be[m HEAD@{23}: rebase (start): checkout c2c96c2
+[33me6579b4[m HEAD@{24}: rebase (finish): returning to refs/heads/main
+[33me6579b4[m HEAD@{25}: rebase (pick): add project description
+[33mf458967[m HEAD@{26}: rebase (pick): add author
+[33me92731b[m HEAD@{27}: rebase (start): checkout e92731b
+[33m8cf1e24[m HEAD@{28}: rebase (finish): returning to refs/heads/main
+[33m8cf1e24[m HEAD@{29}: rebase (pick): add author
+[33ma489a2d[m HEAD@{30}: rebase (start): checkout a489a2d
+[33m1d95476[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{31}: clone: from https://github.com/cuatrosr/PI1-Git-Commits.git
